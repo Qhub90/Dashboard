@@ -1,2 +1,2 @@
 # Dashboard
-A dashoard for my projects
+A dashboard for my projects
